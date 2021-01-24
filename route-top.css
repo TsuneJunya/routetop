@@ -13,6 +13,9 @@
         color: inherit;
       }
 
+    body {
+          background-color: rgb(221, 160, 221,0.3);
+      }
     
     .page-header {
         height: 100px;
